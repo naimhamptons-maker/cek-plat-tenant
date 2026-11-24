@@ -1,0 +1,9 @@
+{
+  "appId": "id.tenant.cekplat",
+  "appName": "Cek Plat Tenant",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
